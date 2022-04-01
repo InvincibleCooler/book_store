@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation android:id="@+id/nav_graph"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/fragment_main">
+
+    <fragment
+        android:id="@+id/fragment_main"
+        android:name="me.invin.bookstore.fragment.MainFragment" />
+
+    <fragment
+        android:id="@+id/fragment_detail"
+        android:name="me.invin.bookstore.fragment.DetailFragment" />
+</navigation>

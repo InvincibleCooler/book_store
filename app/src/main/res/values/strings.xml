@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookStore</string>
+
+    <string name="no_list">검색기록이 없습니다.</string>
+    <string name="input_keyword">검색어를 입력하세요.</string>
+    <string name="notice">알림</string>
+    <string name="confirm">확인</string>
+    <string name="dialog_body_msg">keyword\nkeyword1|\nkeyword1|keyword2\nkeyword1-\nkeyword1-keyword2\n형식만 가능합니다.</string>
+
+
+    <string name="price">Price : %s</string>
+    <string name="rating">Rating : %s</string>
+    <string name="authors">Authors : %s</string>
+    <string name="publisher">Publisher : %s</string>
+    <string name="published">Published : %s</string>
+    <string name="pages">Pages : %s</string>
+    <string name="language">Language : %s</string>
+</resources>
